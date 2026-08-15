@@ -1,12 +1,12 @@
 Define:
-- In english, there are 4 Main word Classes:
-| Vietnamese | English | Example |
-| :--- | :--- | :--- |
-| Danh từ | Noun (N) | company, student, information |
-| Động từ | Verb (V) | work, study, develop |
-| Tính từ | Adjective (Adj) | good, important, successful |
-| Trạng từ | Adverb (Adv) | quickly, carefully, successfully |
+# 📚 Main Word Classes in English (4 Từ Loại Chính Trong Tiếng Anh)
 
+| Loại từ (Vietnamese) | Word Class (English) | Viết tắt | Ví dụ (Examples) | Ví dụ trong câu TOEIC |
+| :--- | :--- | :---: | :--- | :--- |
+| **Danh từ** | Noun | **(N)** | `company`, `student`, `information` | *The **company** announced a new policy.* |
+| **Động từ** | Verb | **(V)** | `work`, `study`, `develop` | *We need to **develop** a clear strategy.* |
+| **Tính từ** | Adjective | Adjective | **(Adj)** | `good`, `important`, `successful` | *This is an **important** meeting for our team.* |
+| **Trạng từ** | Adverb | **(Adv)** | `quickly`, `carefully`, `successfully` | *She **successfully** managed the project.* |
 ---
 1. Noun -Danh từ
 
