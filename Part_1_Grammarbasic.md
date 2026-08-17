@@ -1,5 +1,4 @@
 Define:
-# 📚 Main Word Classes in English (4 Từ Loại Chính Trong Tiếng Anh)
 
 | Loại từ (Vietnamese) | Word Class (English) | Viết tắt | Ví dụ (Examples) | Ví dụ trong câu TOEIC |
 | :--- | :--- | :---: | :--- | :--- |
