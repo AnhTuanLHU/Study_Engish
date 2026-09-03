@@ -45,3 +45,7 @@ EXAMPLE:
 ![alt text](image-7.png)
 
 ![alt text](image-8.png)
+
+Vocabulary:
+ - human resources: trường phòng
+ - next quater: quý tới
